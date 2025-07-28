@@ -112,6 +112,10 @@ flowchart TD
 ```bash
 pkg update && pkg upgrade
 pkg install python git -y
+pkg install tesseract
+pip install pytesseract
+pkg install jp2a
+pkg install python3 
 git clone https://github.com/TEAMBCS/MONOLITE.git
 cd MONOLITH
 chmod +x *
