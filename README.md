@@ -41,7 +41,7 @@ flowchart TD
 ## 🧰 Main Menu Flow
 
 ```mermaid
-graph TD
+flowchart TD
     A["MAIN MENU"] --> B[01. NETWORK TOOL]
     A --> C[02. OSINT TOOLS]
     A --> D[03. UTILITIES]
