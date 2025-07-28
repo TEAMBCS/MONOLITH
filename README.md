@@ -42,8 +42,7 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    A[MAIN MENU] --> A
-[01. NETWORK TOOL]
+    A[MAIN MENU] --> A[01. NETWORK TOOL]
     A --> C[02. OSINT TOOLS]
     A --> D[03. UTILITIES]
     A --> E[04. ADVANCED TOOLKIT]
