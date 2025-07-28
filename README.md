@@ -98,11 +98,11 @@ flowchart TD
 ```mermaid
 flowchart TD
     A[UTILITIES MENU] 
-    B --> B[Hash Cracker]
+    A --> B[Hash Cracker]
     A --> C[Hash Generator]
     A --> D[Hash Identifier]
     A --> E[Hash Lookup]
-    A --> F[Ultimate Hash (Base64/32/16)]
+    A --> F[Ultimate Hash - Base64/32/16]
 ```
 
 ---
