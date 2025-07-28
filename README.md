@@ -40,6 +40,7 @@ flowchart TD
 
 ## 🧰 Main Menu Flow
 ```mermaid
+```mermaid
 graph TD
     A["MAIN MENU"] --> B["01. NETWORK TOOL"]
     A --> C["02. OSINT TOOLS"]
