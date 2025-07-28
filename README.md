@@ -39,19 +39,16 @@ flowchart TD
 ---
 
 ## 🧰 Main Menu Flow
-
 ```mermaid
-graph TD
-    A[MAIN MENU] --> B[01. NETWORK TOOL]
-    A --> C[02. OSINT TOOLS]
-    A --> D[03. UTILITIES]
-    A --> E[04. ADVANCED TOOLKIT]
-    A --> F[05. ATTACK TOOL]
-    A --> G[06. PICTURE TOOLKIT]
-    A --> H[07. RESET IDENTITY]
-    A --> I[08. DEVELOPER INFO]
-
-```
+flowchrat TD
+    A["MAIN MENU"] --> B["01. NETWORK TOOL"]
+    A --> C["02. OSINT TOOLS"]
+    A --> D["03. UTILITIES"]
+    A --> E["04. ADVANCED TOOLKIT"]
+    A --> F["05. ATTACK TOOL"]
+    A --> G["06. PICTURE TOOLKIT"]
+    A --> H["07. RESET IDENTITY"]
+    A --> I["08. DEVELOPER INFO"]
 
 ---
 
