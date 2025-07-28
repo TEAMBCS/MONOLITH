@@ -97,7 +97,8 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    A[UTILITIES MENU] --> B[Hash Cracker]
+    A[UTILITIES MENU] 
+    B --> B[Hash Cracker]
     A --> C[Hash Generator]
     A --> D[Hash Identifier]
     A --> E[Hash Lookup]
