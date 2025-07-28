@@ -112,18 +112,23 @@ flowchart TD
 ```bash
 pkg update && pkg upgrade
 pkg install python git -y
-git clone https://github.com/YOUR_REPO/MONOLITH
+git clone https://github.com/TEAMBCS/MONOLITE.git
 cd MONOLITH
-pip install -r requirements.txt
-python red4.py
+chmod +x *
+python3 setup.py
+python3 monolith.py
 ```
 
 ---
-
+## 🥷 Indetity Restore
+```bash
+if you forget your own username and team name then use python3 indenty_restore.py
+```
+---
 ## 💡 Usage Example
 
 ```bash
-$ python red4.py
+$ python3 monolith.py
 🔐 Login with username and team name
 📡 Choose any module from main menu
 🛠️ Enjoy hacking ethically!
@@ -134,7 +139,7 @@ $ python red4.py
 ## 👨‍💻 Developer
 
 * 👤 Name: BLACK ZERO
-* 💼 Team: SHADOW STRIKER
+* 💼 Team: BANGLADESH CYBER SQUAD ✘ TEAM SHADOW STRIKER
 * 🌐 Website: [black-zero.vercel.app](https://black-zero.vercel.app)
 
 ---
