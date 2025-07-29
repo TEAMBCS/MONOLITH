@@ -17,7 +17,9 @@
 - 🌐 Network Tools (SQLi, XSS, Admin Finder, Nmap, IP Ping)
 - 🔍 OSINT Tools (Dork Generator, IP Lookup, Email Validator, Phone Tracker)
 - 🛠️ Hash Utilities (Cracker, Generator, Identifier, Decrypter)
-- 📸 Picture Payload Toolkit (Coming Soon)
+- 📸 Picture Payload Toolkit
+- ☠️ DDoS tool
+- 👨‍💻 Advance Tool for website and malware maker
 - 👤 Identity Login + Secure Tracker
 - ⚡ Beautiful Terminal UI using Rich Library
 
