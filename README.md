@@ -115,7 +115,7 @@ pkg install tesseract
 pip install pytesseract
 pkg install jp2a
 pkg install python3 
-git clone https://github.com/TEAMBCS/MONOLITE.git
+git clone https://github.com/TEAMBCS/MONOLITH.git
 cd MONOLITH
 chmod +x *
 python3 setup.py
