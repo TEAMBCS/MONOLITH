@@ -42,14 +42,14 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    A[MAIN MENU] --> B[01. NETWORK TOOL]
-    A --> C[02. OSINT TOOLS]
-    A --> D[03. UTILITIES]
-    A --> E[04. ADVANCED TOOLKIT]
-    A --> F[05. ATTACK TOOL]
-    A --> G[06. PICTURE TOOLKIT]
-    A --> H[07. RESET IDENTITY]
-    A --> I[08. DEVELOPER INFO]
+    A[MAIN MENU] --> B[NETWORK TOOL]
+    A --> C[OSINT TOOLS]
+    A --> D[UTILITIES]
+    A --> E[ADVANCED TOOLKIT]
+    A --> F[ATTACK TOOL]
+    A --> G[PICTURE TOOLKIT]
+    A --> H[RESET IDENTITY]
+    A --> I[DEVELOPER INFO]
 ```
 ---
 
