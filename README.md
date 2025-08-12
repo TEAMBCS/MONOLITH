@@ -145,7 +145,7 @@ $ python3 monolith.py
 
 * 👤 Name: BLACK ZERO
 * 💼 Team: BANGLADESH CYBER SQUAD ✘ TEAM SHADOW STRIKER
-* 🌐 Website: [black-zero.vercel.app](https://black-zero.vercel.app)
+* 🌐 Website: [BLACK ZERO](https://black-zero.vercel.app)
 
 ---
 
